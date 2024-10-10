@@ -80,5 +80,6 @@ elif pet_type == '2':
 
 #Story segment for if the user chooses to come back another day
 elif pet_type == '3':
+    print('You have $', budget, 'left that you could spend.')
     print('You may not have gotten a new pet, but you saved money and avoided a potentially hasty decision.')
 
